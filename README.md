@@ -1,1 +1,1 @@
-<h1>Team Project <Trip Scheduler></h1>
+<h1>Team Project : Trip Scheduler</h1>

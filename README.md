@@ -11,6 +11,7 @@
 
 <h1>팀원 소개</h1>
 ![member](https://github.com/user-attachments/assets/4b2a6fcb-90d6-4fae-a239-240304ff0e1b)
+<img src="https://github.com/user-attachments/assets/4b2a6fcb-90d6-4fae-a239-240304ff0e1b" width="200px">
 
 
 

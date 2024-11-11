@@ -11,10 +11,14 @@
 
 <h1>팀원 소개</h1>
 
-![Uploading calendarJS.png…]()
+![member](https://github.com/user-attachments/assets/609c0d87-708e-4779-83d8-430992d3e392)
+
 
 <h1>전체 기술 스택</h1>
 <p>HTML5, CSS3, JavaScript, Spring Boot, Java, MySQL, MyBatis, JSP</p>
 
 <h1>DB 모델링</h1>
-![image](https://github.com/user-attachments/assets/92d959a9-fbe2-4164-ae85-359a94b2a952)
+![image](https://github.com/user-attachments/assets/611e323d-572c-4ac6-9aef-6862e6d5b609)
+
+<h1>테스트</h1>
+![calendar](https://github.com/user-attachments/assets/d2675db8-699a-44ff-a8dc-901569d5b7d8)

@@ -1,3 +1,4 @@
 <h1>Team Project : Trip Scheduler</h1>
 
-<img src="https://github.com/yub5895/yubProject-1/issues/1#issue-2648188163" width="200px"></img>
+
+![calendar](https://github.com/user-attachments/assets/2d46cc01-ce38-4b0f-9082-5a976096a40d)

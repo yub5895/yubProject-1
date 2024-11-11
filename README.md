@@ -19,6 +19,8 @@
 <p>HTML5, CSS3, JavaScript, Spring Boot, Java, MySQL, MyBatis, JSP</p>
 
 <h1>DB 모델링</h1>
+![image](https://github.com/user-attachments/assets/7b14ea66-ee52-42bb-a6ff-bc6159b216e3)
+<img src="https://github.com/user-attachments/assets/7b14ea66-ee52-42bb-a6ff-bc6159b216e3">
 
 
 <h1>테스트</h1>

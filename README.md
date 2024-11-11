@@ -80,11 +80,16 @@ aos라는 이름의 라이브러리를 사용하여 fade-in, fade-out을 구현�
 
   <p></p>
 
+<img src="https://github.com/user-attachments/assets/29782e8c-c769-4193-8f1b-bbbf5863f625">
+
+
   <h2>detail 페이지</h2>
   <h3>#My work:</h3>
   <h3>#Tema work:</h3>
 
   <p></p>
+  
+<img src="https://github.com/user-attachments/assets/ab1b9a58-e59d-43ba-b2eb-7c9121e4e477">
 
 
   <h2>kakaomap 페이지</h2>
@@ -95,3 +100,6 @@ aos라는 이름의 라이브러리를 사용하여 fade-in, fade-out을 구현�
 
   장소를 추천받을 수 있도록 챗GPT와 연동했습니다. 장소를 선택 시 이미지 크롤링되어 구글에서 임의의 이미지가 선택 후 세부일정에 함께 출력되도록 했습니다.
   </p>
+
+  <img src="https://github.com/user-attachments/assets/63b52d03-62aa-4db4-b219-5654294de031">
+

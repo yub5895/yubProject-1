@@ -87,7 +87,10 @@ aos라는 이름의 라이브러리를 사용하여 fade-in, fade-out을 구현�
   
   <p>설명</p>
 
-  
+
+
+<img src="https://github.com/user-attachments/assets/a64b6a86-8c51-4741-99e0-d84ccfe98ab2">
+
 
 
   

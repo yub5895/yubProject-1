@@ -10,7 +10,7 @@
 </ul>
 
 <h1>팀원 소개</h1>
-![멤버](./image/카카오맵JS.png)
+![멤버](./image/카카오맵JS.PNG)
 
 <h1>전체 기술 스택</h1>
 <p>HTML5, CSS3, JavaScript, Spring Boot, Java, MySQL, MyBatis, JSP</p>

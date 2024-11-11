@@ -83,6 +83,15 @@ aos라는 이름의 라이브러리를 사용하여 fade-in, fade-out을 구현�
 <img src="https://github.com/user-attachments/assets/29782e8c-c769-4193-8f1b-bbbf5863f625">
 
 
+  <h4>설명제목</h4>
+  
+  <p>설명</p>
+
+  
+
+
+  
+
   <h2>detail 페이지</h2>
   <h3>#My work:</h3>
   <h3>#Tema work:</h3>
@@ -91,6 +100,35 @@ aos라는 이름의 라이브러리를 사용하여 fade-in, fade-out을 구현�
   
 <img src="https://github.com/user-attachments/assets/ab1b9a58-e59d-43ba-b2eb-7c9121e4e477">
 
+
+  <h4>설명제목</h4>
+  
+  <p>설명</p>
+
+
+<img src="https://github.com/user-attachments/assets/6d727367-c6f9-4a7d-8404-3af1ad3dd124">
+
+<img src="https://github.com/user-attachments/assets/fedcd36a-aa14-4b76-8cd7-e7662d39fa9a">
+
+  
+
+    <h4>설명제목</h4>
+  
+  <p>설명</p>
+
+
+<img src="https://github.com/user-attachments/assets/83f2d0ee-7a45-43df-a8d7-9eeb14a1b600">
+
+
+
+    <h4>설명제목</h4>
+  
+  <p>설명</p>
+
+
+<img src="https://github.com/user-attachments/assets/6217aff0-854d-44f1-8f89-4241b5c54466">
+
+  
 
   <h2>kakaomap 페이지</h2>
   <h3>#My work: 검색 창 디자인 및 자바스크립트 구현</h3>
@@ -103,3 +141,9 @@ aos라는 이름의 라이브러리를 사용하여 fade-in, fade-out을 구현�
 
   <img src="https://github.com/user-attachments/assets/63b52d03-62aa-4db4-b219-5654294de031">
 
+
+  <h4>설명제목</h4>
+  
+  <p>설명</p>
+
+<img src="https://github.com/user-attachments/assets/840ea46b-9a27-462c-bc09-a98006e97560">

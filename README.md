@@ -10,7 +10,7 @@
 </ul>
 
 <h1>팀원 소개</h1>
-![member](https://github.com/user-attachments/assets/bb777338-a0df-4902-953f-576ab7eed93b)
+[멤버](./image/카카오맵JS.png)
 
 <h1>전체 기술 스택</h1>
 <p>HTML5, CSS3, JavaScript, Spring Boot, Java, MySQL, MyBatis, JSP</p>

@@ -23,5 +23,12 @@
 <img src="https://github.com/user-attachments/assets/7b14ea66-ee52-42bb-a6ff-bc6159b216e3">
 
 
-<h1>테스트</h1>
+<h1>코드 리뷰</h1>
+  <h2>index 페이지</h2>
+  <h3>my work:페이지 총 디자인 및 구현</h3>
+  <h3>team work:회원가입, 로그인 페이지 디자인 및 기능 구현</h3>
+![index12](https://github.com/user-attachments/assets/d5811e3b-d39e-4c3d-930a-054ac946a2df)
+<img src="https://github.com/user-attachments/assets/d5811e3b-d39e-4c3d-930a-054ac946a2df">
+
+  
 

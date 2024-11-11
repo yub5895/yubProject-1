@@ -10,8 +10,8 @@
 </ul>
 
 <h1>팀원 소개</h1>
+![member](https://github.com/user-attachments/assets/fa83f4b4-52b6-4de3-babf-d5c061ee33dd)
 
-![member](https://github.com/user-attachments/assets/609c0d87-708e-4779-83d8-430992d3e392)
 
 
 <h1>전체 기술 스택</h1>

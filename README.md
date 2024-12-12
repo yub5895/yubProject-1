@@ -159,8 +159,10 @@ JSTL의 반복문 forEach를 이용하여 화면이 여행일정의 날짜 개�
   <img src="https://github.com/user-attachments/assets/63b52d03-62aa-4db4-b219-5654294de031">
 
 
-  <h4>설명제목</h4>
+  <h4>jQuery를 이용한 검색 창 숨김, 표시</h4>
   
-  <p>설명</p>
+  <p>검색창 및 추가하는 헤더의 경우 jQuery로 구현하였으며, animate 이벤트를 사용하여 버튼을 클릭하는 경우 margin Left로 일정 값만큼 줘 좌측 이동, 재클릭 시 반대로 이동하도록 하였습니다.  다만, 이런 방식을 사용하는 경우 각기 다른 버튼이 되어야하여 margin Left 위치값에 따라 버튼이 변동될 수 있도록 설정하였습니다.
+gpt창의 경우 모달 형식을 이용하였으며 헤더와 똑같은 기능이지만 더 많은 넓이만큼 이동하여 자연스럽게 숨겨지도록 만들었습니다.
+</p>
 
 <img src="https://github.com/user-attachments/assets/840ea46b-9a27-462c-bc09-a98006e97560">
